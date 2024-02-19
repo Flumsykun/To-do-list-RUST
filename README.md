@@ -1,9 +1,16 @@
+<div align="center">
+
+![image align="center"](https://github.com/Flumsykun/To-do-list-RUST/assets/93383232/685100bc-ceb2-4d06-b8a4-27b2c6e4614e)
+
+
 # Rust To-Do List
 
 Welcome to my Rust To-Do List project!
 
+</div>
+
 > [!NOTE]
->### Guide used:
+> ### Guide used:
 >[Build a todo-list application in Rust](https://medium.com/@goelpulkit43/build-a-todo-list-application-in-rust-c2cbe3f2938b)
 
 ## Prerequisites
@@ -31,3 +38,5 @@ Before you begin, ensure you have the following installed:
     ```bash
     cargo run
     ```
+
+
